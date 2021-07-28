@@ -1,0 +1,3 @@
+07/28/2021 06:45:46 PM : root : INFO : Changing extension of files from .txt to .doc that are present in directory C:\Users\Admin\GitRepos\python\FileHandling
+07/28/2021 06:45:46 PM : root : DEBUG : Renaming file Demo.txt to Demo.doc
+07/28/2021 06:45:46 PM : root : DEBUG : Renaming file test.txt to test.doc

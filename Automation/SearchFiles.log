@@ -1,0 +1,25 @@
+07/28/2021 06:43:25 PM : root : INFO : Finding files with extension .py in directory basics
+07/28/2021 06:43:25 PM : root : DEBUG : Setting absolute path of directory to : C:\Users\Admin\GitRepos\python\Automation\basics
+07/28/2021 06:43:25 PM : root : ERROR : Directory C:\Users\Admin\GitRepos\python\Automation\basics not found
+07/28/2021 06:44:15 PM : root : INFO : Finding files with extension .py in directory C:\Users\Admin\GitRepos\python\basics
+07/28/2021 06:44:15 PM : root : INFO : Found file : addition_of_digits.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : addition_of_factors.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : add_numbers.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : display_length.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : factorial.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : first_10_even_numbers.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : for_loop.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : for_loop_reverse_order.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : hello_world.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : number_of_digits.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : num_divisible_by_5.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : odd_even.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : positive_negative_numbers.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : prime.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : print_symbol.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : Arithmetic.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : main.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : display_pattern_num_1.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : display_pattern_num_2.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : display_pattern_symbol_1.py
+07/28/2021 06:44:15 PM : root : INFO : Found file : display_pattern_symbol_2.py

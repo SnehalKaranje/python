@@ -1,0 +1,7 @@
+07/28/2021 06:48:27 PM : root : INFO : Copying contents from directory TestDir to directory CopyDir
+07/28/2021 06:48:27 PM : root : DEBUG : Setting absolute source directory path to C:\Users\Admin\GitRepos\python\Automation\TestDir
+07/28/2021 06:48:27 PM : root : ERROR : Failed to find source directory C:\Users\Admin\GitRepos\python\Automation\TestDir
+07/28/2021 06:48:46 PM : root : INFO : Copying contents from directory TempDir to directory CopyDir
+07/28/2021 06:48:46 PM : root : DEBUG : Setting absolute source directory path to C:\Users\Admin\GitRepos\python\Automation\TempDir
+07/28/2021 06:48:46 PM : root : DEBUG : Setting absolute target directory path to CopyDir
+07/28/2021 06:48:46 PM : root : INFO : Successfully copied contents from C:\Users\Admin\GitRepos\python\Automation\TempDir to C:\Users\Admin\GitRepos\python\Automation\CopyDir

@@ -1,0 +1,14 @@
+07/28/2021 06:51:20 PM : root : INFO : Copying files with extension CopyToDir from -u to TempDir
+07/28/2021 06:51:20 PM : root : DEBUG : Setting absolute source directory path to C:\Users\Admin\GitRepos\python\Automation\-u
+07/28/2021 06:51:20 PM : root : ERROR : Failed to find source directory C:\Users\Admin\GitRepos\python\Automation\-u
+07/28/2021 06:51:47 PM : root : INFO : Copying files with extension .doc from TempDir to CopyToDir
+07/28/2021 06:51:47 PM : root : DEBUG : Setting absolute source directory path to C:\Users\Admin\GitRepos\python\Automation\TempDir
+07/28/2021 06:51:47 PM : root : DEBUG : Setting absolute target directory path to CopyToDir
+07/28/2021 06:52:04 PM : root : INFO : Copying files with extension .doc from TempDir to CopyToDir
+07/28/2021 06:52:04 PM : root : DEBUG : Setting absolute source directory path to C:\Users\Admin\GitRepos\python\Automation\TempDir
+07/28/2021 06:52:04 PM : root : DEBUG : Setting absolute target directory path to CopyToDir
+07/28/2021 06:52:04 PM : root : ERROR : Target directory CopyToDir already exist. Returning
+07/28/2021 06:52:21 PM : root : INFO : Copying files with extension .doc from TempDir to CopyToDir
+07/28/2021 06:52:21 PM : root : DEBUG : Setting absolute source directory path to C:\Users\Admin\GitRepos\python\Automation\TempDir
+07/28/2021 06:52:21 PM : root : DEBUG : Setting absolute target directory path to CopyToDir
+07/28/2021 06:52:21 PM : root : INFO : Copying file Test.doc to directory C:\Users\Admin\GitRepos\python\Automation\CopyToDir

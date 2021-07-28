@@ -1,0 +1,4 @@
+07/28/2021 07:01:24 PM : root : DEBUG : Current directory is : C:\Users\Admin\GitRepos\python\Automation\TempDir
+07/28/2021 07:01:24 PM : root : DEBUG : Returning : {'ccb32bba843690c55cbfe14d0e9de601': ['C:\\Users\\Admin\\GitRepos\\python\\Automation\\TempDir\\Test copy.txt', 'C:\\Users\\Admin\\GitRepos\\python\\Automation\\TempDir\\Test.txt'], '0e3b7beb598643f8ca4f7fa81ddd661d': ['C:\\Users\\Admin\\GitRepos\\python\\Automation\\TempDir\\Test.doc']}
+07/28/2021 07:01:24 PM : root : INFO : Duplicate files : ['C:\\Users\\Admin\\GitRepos\\python\\Automation\\TempDir\\Test copy.txt', 'C:\\Users\\Admin\\GitRepos\\python\\Automation\\TempDir\\Test.txt']
+07/28/2021 07:01:24 PM : root : INFO : Removing file C:\Users\Admin\GitRepos\python\Automation\TempDir\Test.txt

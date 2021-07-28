@@ -1,0 +1,3 @@
+07/28/2021 07:00:30 PM : root : DEBUG : Current directory is : C:\Users\Admin\GitRepos\python\Automation\TempDir
+07/28/2021 07:00:30 PM : root : INFO : File : Test.doc checksum : 0e3b7beb598643f8ca4f7fa81ddd661d
+07/28/2021 07:00:30 PM : root : INFO : File : Test.txt checksum : ccb32bba843690c55cbfe14d0e9de601

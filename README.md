@@ -1,5 +1,5 @@
 # python
-The repository contains code implemented for some practice assignment problems starting with basics to automation using <a href="https://www.python.org/downloads/release/python-359/"><img alt="Python" src="https://img.shields.io/badge/python-3.5.9-brightgreen"/></a>
+The repository contains code implemented for some practice assignment problems starting with basics to automation using <a href="https://www.python.org/downloads/release/python-359/"><img alt="Python" src="https://img.shields.io/badge/python-3.5.9-blue"/></a>
 
 Got introduced to following modules:
 
